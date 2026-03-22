@@ -26,3 +26,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated license year
 - Added inline documentation for core functions
 - Reorganised test fixtures
+
+## 2026-03-23
+- Tested build on clean environment
+- Added healthcheck endpoint stub
+- Improved log message formatting
