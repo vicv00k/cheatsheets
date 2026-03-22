@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Updated .gitignore to exclude build artifacts
 - Cross-checked behaviour against spec
+
+## 2026-03-22
+- Added inline documentation for core functions
