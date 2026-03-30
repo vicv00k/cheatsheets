@@ -36,3 +36,6 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Reviewed open issues, added labels
 - Checked for memory leaks in long-running path
+
+## 2026-03-30
+- Updated CI cache strategy
